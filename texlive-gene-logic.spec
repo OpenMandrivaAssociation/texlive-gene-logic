@@ -6,7 +6,7 @@
 # catalog-version 1.4
 Name:		texlive-gene-logic
 Version:	1.4
-Release:	1
+Release:	2
 Summary:	Typeset logic formulae, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gene/logic
